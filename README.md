@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wunmites
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Blockchain Technology at Domineum Academy through NITDA Scholarship Programme.
-- 💞️ I’m looking to collaborate on any project that may be of any benefit to me in the course of my training.
+-    I’m interested in Blockchain Technology
+-    I’m currently learning Blockchain Technology at Domineum Academy through NITDA Scholarship Programme.
+-    I’m looking to collaborate on any project that may be of any benefit to me in the course of my training.
 -    You can reachout to me on Twitter @wunmite_79,Telegram and WhatsApp on 08073435722
